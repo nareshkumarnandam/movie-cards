@@ -9,7 +9,7 @@
   gap: 20px;
   padding: 20px;
   overflow-x: hidden;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .movieCard{
