@@ -20,7 +20,7 @@
   height: 400px;
   border-radius: 10px;
   position: relative;
-  left: 20px;
+  /* left: 20px; */
 }
 .movieDetails, .movieBackgroundImage{
   width: 48%;
